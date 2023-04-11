@@ -7,3 +7,5 @@
   + https://www.perplexity.ai/
   + https://www.nltk.org/
   + https://pypi.org/project/PyDictionary/
+  + https://github.com/
+  + https://stackoverflow.com/
