@@ -5,3 +5,5 @@
   + https://docs.python.org/3/reference/index.html#reference-index
   + https://pypi.org/
   + https://www.perplexity.ai/
+  + https://www.nltk.org/
+  + https://pypi.org/project/PyDictionary/
